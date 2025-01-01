@@ -23,4 +23,4 @@ jobs:
       - run: python ./.github/actions/checkin/universal.py
 
       - name: Timestamp
-        run: no
+        run: none
